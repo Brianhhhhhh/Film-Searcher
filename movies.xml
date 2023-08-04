@@ -1,0 +1,156 @@
+<movies>
+
+	<MOVIE>
+		<TITLE>Titanic</TITLE>
+                <YEAR>1997</YEAR>
+		<GENRE>Drama</GENRE>
+		<RATING>7.8</RATING>
+	</MOVIE>
+	
+	<MOVIE>
+		<TITLE>The Hunger Games</TITLE>
+                <YEAR>2012</YEAR>
+		<GENRE>Adventure</GENRE>
+		<RATING>9.5</RATING>
+	</MOVIE>
+
+	<MOVIE>
+		<TITLE>Lord of the Rings: The Fellowship of the Ring</TITLE>
+                <YEAR>2001</YEAR>
+		<GENRE>Fantasy</GENRE>
+		<RATING>8.6</RATING>
+	</MOVIE>
+	
+	<MOVIE>
+		<TITLE>Frozen</TITLE>
+                <YEAR>2014</YEAR>
+		<GENRE>Animation</GENRE>
+		<RATING>6.4</RATING>
+	</MOVIE>
+	
+	<MOVIE>
+		<TITLE>Les Miserables</TITLE>
+                <YEAR>2012</YEAR>
+		<GENRE>Musical</GENRE>
+		<RATING>5.8</RATING>
+	</MOVIE>
+
+	<MOVIE>
+		<TITLE>The Little Mermaid</TITLE>
+                <YEAR>1989</YEAR>
+		<GENRE>Animation</GENRE>
+		<RATING>9.4</RATING>
+	</MOVIE>
+	
+	<MOVIE>
+		<TITLE>Just Go with It</TITLE>
+                <YEAR>2011</YEAR>
+		<GENRE>Comedy</GENRE>
+		<RATING>8.4</RATING>
+	</MOVIE>
+
+	<MOVIE>
+		<TITLE>Shutter Island</TITLE>
+                <YEAR>2010</YEAR>
+		<GENRE>Thriller</GENRE>
+		<RATING>7.9</RATING>
+	</MOVIE>
+
+	<MOVIE>
+		<TITLE>Jurassic Park</TITLE>
+                <YEAR>1993</YEAR>
+		<GENRE>Adventure</GENRE>
+		<RATING>8.9</RATING>
+	</MOVIE>
+
+	<MOVIE>
+		<TITLE>Interstellar</TITLE>
+                <YEAR>2014</YEAR>
+		<GENRE>Adventure</GENRE>
+		<RATING>6.7</RATING>
+	</MOVIE>
+
+    <MOVIE>
+		<TITLE>Journey 2: The Mysterious Island</TITLE>
+                <YEAR>2021</YEAR>
+		<GENRE>Adventure</GENRE>
+		<RATING>8.0</RATING>
+	</MOVIE>
+
+    <MOVIE>
+		<TITLE>The Island</TITLE>
+                <YEAR>2004</YEAR>
+		<GENRE>Action</GENRE>
+		<RATING>6.6</RATING>
+	</MOVIE>
+
+    <MOVIE>
+		<TITLE>Mulan</TITLE>
+                <YEAR>2012</YEAR>
+		<GENRE>Adventure</GENRE>
+		<RATING>6.7</RATING>
+	</MOVIE>
+
+    <MOVIE>
+		<TITLE>Secret Society of Second Born Royals</TITLE>
+                <YEAR>2011</YEAR>
+		<GENRE>Fantasy</GENRE>
+		<RATING>4.7</RATING>
+	</MOVIE>
+
+    <MOVIE>
+		<TITLE>Inception</TITLE>
+                <YEAR>2001</YEAR>
+		<GENRE>Sci-Fi</GENRE>
+		<RATING>6.0</RATING>
+	</MOVIE>
+
+    <MOVIE>
+		<TITLE>The Prestige</TITLE>
+                <YEAR>2018</YEAR>
+		<GENRE>Mystery</GENRE>
+		<RATING>6.1</RATING>
+	</MOVIE>
+
+    <MOVIE>
+		<TITLE>Dunkirk</TITLE>
+                <YEAR>2021</YEAR>
+		<GENRE>Adventure</GENRE>
+		<RATING>6.7</RATING>
+	</MOVIE>
+
+    <MOVIE>
+		<TITLE>Watcher</TITLE>
+                <YEAR>2015</YEAR>
+		<GENRE>Thriller</GENRE>
+		<RATING>5.5</RATING>
+	</MOVIE>
+
+    <MOVIE>
+		<TITLE>Batman Begins</TITLE>
+                <YEAR>2005</YEAR>
+		<GENRE>Action</GENRE>
+		<RATING>9.9</RATING>
+	</MOVIE>	
+
+    <MOVIE>
+		<TITLE>Gravity</TITLE>
+                <YEAR>2013</YEAR>
+		<GENRE>Sci-Fi</GENRE>
+		<RATING>4.7</RATING>
+	</MOVIE>
+
+    <MOVIE>
+		<TITLE>Sherlock Holmes</TITLE>
+                <YEAR>2009</YEAR>
+		<GENRE>Mystery</GENRE>
+		<RATING>9.7</RATING>
+	</MOVIE>
+
+    <MOVIE>
+		<TITLE>Man of Steel</TITLE>
+                <YEAR>2013</YEAR>
+		<GENRE>Action</GENRE>
+		<RATING>3.7</RATING>
+	</MOVIE>
+</movies>
